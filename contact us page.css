@@ -1,0 +1,175 @@
+*{
+	font-family: 'Poppins';
+    margin: 0;
+    letter-spacing: 0.04em;
+}
+.navbar-brand{
+	font-weight: bold;
+}
+.navbar-nav{
+	margin-left: 395px;
+}
+div a{
+	font-size: 8px;
+	font-style: medium;
+	text-align: center;
+	color: #000000;
+}
+.login{
+	border: none;
+	border-radius: 6px;
+	background-color: #F1E4FF;
+
+	font-size: 6px;
+	color: #8C30F5;
+}
+.signup{
+	border: none;
+	border-radius: 6px;
+	background-color: #8C30F5;
+
+	font-size: 6px;
+	color: #FFFFFF;
+}
+h1{
+	position: absolute;
+	width: 290px;
+	height: 44px;
+	left: 525px;
+	top: 192px;
+	font-size: 72px;
+	line-height: 44px;
+}
+.Rectangle1{
+	position: absolute;
+	width: 700px;
+	height: 296px;
+	left: 370px;
+	top: 336px;
+}
+div.grup1{
+	width: 450px;
+	height: 80px;
+	top: 336px;
+	border: none;
+	box-sizing: border-box;
+	border-radius: 10px;
+	line-height: 44px;
+	background-color: #B1B1FF;
+	margin-left: 63px;
+}
+div.ikon1 img{
+	width: 40px;
+	height: auto;
+	left: 370px;
+	top: 336px;
+	line-height: 44px;
+	position: absolute;
+	left: 39%;
+	right: 0%;
+	top: 6%;
+	bottom: 0.35%;
+}
+div.grup2{
+	width: 450px;
+	height: 80px;
+	top: 336px;
+	border: none;
+	box-sizing: border-box;
+	border-radius: 10px;
+	line-height: 44px;
+	background-color: #B1B1FF;
+	margin-left: 63px;
+}
+div.ikon2 img{
+	width: 40px;
+	height: auto;
+	left: 370px;
+	top: 336px;
+	line-height: 44px;
+	position: absolute;
+	left: 39%;
+	right: 0%;
+	top: 50%;
+	bottom: 0.35%;
+}
+div.grup3{
+	width: 450px;
+	height: 80px;
+	top: 336px;
+	border: none;
+	box-sizing: border-box;
+	border-radius: 10px;
+	line-height: 44px;
+	background-color: #B1B1FF;
+	margin-left: 63px;
+}
+div.ikon3 img{
+	width: 40px;
+	height: auto;
+	left: 370px;
+	top: 336px;
+	line-height: 44px;
+	position: absolute;
+	left: 39%;
+	right: 0%;
+	top: 93%;
+	bottom: 0.35%;
+}
+.lambang{
+	width: 100%;
+    height: 20px;
+    left: 0px;
+    margin-top: 800px;
+    padding: 200px;
+    background: #0B0D17;
+
+    font-size: 30px;
+    color:  #FFFFFF;
+    text-align: center;
+    padding-top: 30px;  
+}
+nav p{
+	font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    left: 0px;
+    padding: 0;
+    overflow: hidden;
+    margin-right: 230px;
+}
+li {
+	display: flex;
+    float: right;
+    margin-right: 10px;
+
+}
+li a {
+    display: block;
+    color: #CCCCCC;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 14px;
+}
+.garis{
+	width: 100%;
+    height: 1px;
+    left: 0px;
+    top: 6px;
+    background: #FFFFFF;  
+}
+.copy{
+	width: 274px;
+	height: 50px;
+	
+    font-size: 12px;
+    font-style: normal;
+    padding-top: 50px;
+}
+.ikon{
+	float:right;
+	margin-top: 27px;
+	margin-right: 5px;
+}
+    
